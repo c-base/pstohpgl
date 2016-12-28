@@ -1,5 +1,6 @@
 #!/usr/bin/env python2
 # coding: utf-8
+# /usr/lib/cups/filter/pstohpgl.py
 
 """
 http://www.cups.org/doc-1.1/spm.html#4_1
